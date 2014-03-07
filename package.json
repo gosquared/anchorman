@@ -7,10 +7,10 @@
     "test": "test"
   },
   "dependencies": {
-    "object-merge": "^2.5.1",
     "debug": "^0.7.4",
     "redis": "^0.10.1",
-    "async": "^0.2.10"
+    "async": "^0.2.10",
+    "extend": "^1.2.1"
   },
   "devDependencies": {
     "should": "^3.1.3",

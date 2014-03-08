@@ -1,5 +1,5 @@
 {
-  "name": "anchorman",
+  "name": "node-anchorman",
   "version": "0.0.1",
   "description": "Distributed messaging using redis",
   "main": "lib/Anchorman.js",

@@ -7,7 +7,9 @@ var createRedisClient = function() {
 };
 
 describe('Anchorman', function() {
-  var anchorman = Anchorman(createRedisClient);
+  var anchorman = Anchorman({
+    createRedisClient: createRedisClient
+  });
 
   before(function(done) {
     anchorman.checkReady(done);

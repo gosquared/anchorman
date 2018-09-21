@@ -1,6 +1,6 @@
 {
   "name": "node-anchorman",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Distributed messaging using redis",
   "main": "lib/Anchorman.js",
   "directories": {

@@ -7,9 +7,9 @@
     "test": "test"
   },
   "dependencies": {
-    "debug": "^0.7.4",
-    "async": "^0.2.10",
-    "extend": "^1.2.1"
+    "debug": "^4.0.1",
+    "extend": "^1.2.1",
+    "neo-async": "^2.5.2"
   },
   "devDependencies": {
     "mocha": "^5.2.0",
